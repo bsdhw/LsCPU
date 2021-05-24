@@ -1,0 +1,12 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   7
+Model name:              Pentium III/Pentium III Xeon/Celeron
+Stepping:                3
+L1d cache:               16K
+L1i cache:               16K
+L2 cache:                512K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 mmx fxsr sse syscall pdpe1gb rdtscp

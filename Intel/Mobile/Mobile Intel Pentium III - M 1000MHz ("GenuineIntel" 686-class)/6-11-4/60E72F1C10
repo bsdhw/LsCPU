@@ -1,0 +1,14 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           1
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   11
+Model name:              Mobile Intel(R) Pentium(R) III CPU - M 1000MHz ("GenuineIntel" 686-class)
+Stepping:                4
+CPU MHz:                 733
+L1d cache:               16K
+L1i cache:               16K
+L2 cache:                512K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 mmx fxsr sse

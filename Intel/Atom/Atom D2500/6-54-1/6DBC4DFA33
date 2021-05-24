@@ -1,0 +1,12 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Active CPU(s):           2
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   54
+Model name:              Intel(R) Atom(TM) CPU D2500 @ 1.86GHz
+Stepping:                1
+CPU MHz:                 1866
+L1i cache:               32K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl tm2 ssse3 cx16 xtpr pdcm movbe syscall nx lm lahf_lm

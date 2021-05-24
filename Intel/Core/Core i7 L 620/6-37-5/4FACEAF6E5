@@ -1,0 +1,17 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Active CPU(s):           4
+Total CPU(s):            4
+Thread(s) per core:      2
+Core(s) per socket:      2
+Socket(s):               1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   37
+Model name:              Intel(R) Core(TM) i7 CPU L 620 @ 2.00GHz
+Stepping:                5
+CPU MHz:                 2000
+L1d cache:               32K
+L1i cache:               32K
+L3 cache:                4M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid sse4_1 sse4_2 popcnt aes syscall nx rdtscp lm lahf_lm

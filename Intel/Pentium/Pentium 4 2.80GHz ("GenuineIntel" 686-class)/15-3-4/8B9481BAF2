@@ -1,0 +1,13 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           1
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              15
+Model:                   3
+Model name:              Intel(R) Pentium(R) 4 CPU 2.80GHz ("GenuineIntel" 686-class)
+Stepping:                4
+CPU MHz:                 2794
+L1d cache:               16K
+L2 cache:                1M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl cnxt-id xtpr

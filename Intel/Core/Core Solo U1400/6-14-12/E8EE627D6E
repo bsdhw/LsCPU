@@ -1,0 +1,14 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           1
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   14
+Model name:              Intel(R) Core(TM) Solo CPU U1400 @ 1.20GHz ("GenuineIntel" 686-class)
+Stepping:                12
+CPU MHz:                 1200
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                2M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss tm pbe sse3 monitor vmx est tm2 xtpr pdcm nx

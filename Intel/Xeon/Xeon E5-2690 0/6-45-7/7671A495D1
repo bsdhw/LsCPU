@@ -1,0 +1,18 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Active CPU(s):           16
+Total CPU(s):            16
+Thread(s) per core:      2
+Core(s) per socket:      8
+Socket(s):               1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   45
+Model name:              Intel(R) Xeon(R) CPU E5-2690 0 @ 2.90GHz
+Stepping:                7
+CPU MHz:                 2900
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                256K
+L3 cache:                20M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 pclmulqdq dtes64 ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic popcnt tsc_deadline aes xsave osxsave avx syscall nx pdpe1gb rdtscp lm lahf_lm

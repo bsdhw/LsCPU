@@ -1,0 +1,8 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            1
+Vendor:                  CentaurHauls
+CPU family:              6
+Model:                   15
+Model name:              VIA Nano U3500@1000MHz
+Stepping:                10

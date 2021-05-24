@@ -1,0 +1,14 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           2
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   14
+Model name:              Intel(R) Core(TM) Duo CPU L2400 @ 1.66GHz ("GenuineIntel" 686-class)
+Stepping:                12
+CPU MHz:                 1667
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                2M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 monitor vmx est tm2 xtpr pdcm nx

@@ -1,0 +1,14 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           1
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   13
+Model name:              Intel(R) Pentium(R) M processor 1.60GHz ("GenuineIntel" 686-class)
+Stepping:                6
+CPU MHz:                 1600
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                2M
+Flags:                   fpu vme de pse tsc msr mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss tm pbe est tm2

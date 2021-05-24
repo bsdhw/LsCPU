@@ -1,0 +1,15 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            2
+Thread(s) per core:      1
+Core(s) per socket:      2
+Socket(s):               1
+Vendor:                  AuthenticAMD
+CPU family:              21
+Model:                   19
+Model name:              AMD A6-6400K APU with Radeon(tm) HD Graphics   
+Stepping:                1
+L1d cache:               16K
+L1i cache:               64K
+L2 cache:                1024K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh mmx fxsr sse sse2 htt sse3 pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 popcnt aes xsave osxsave avx f16c syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm lahf_lm cmp_legacy svm extapic cr8_legacy lzcnt sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 tce tbm topoext perfctr_core perfctr_nb

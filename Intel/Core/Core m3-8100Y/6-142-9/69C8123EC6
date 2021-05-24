@@ -1,0 +1,18 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Active CPU(s):           4
+Total CPU(s):            4
+Thread(s) per core:      2
+Core(s) per socket:      2
+Socket(s):               1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   142
+Model name:              Intel(R) Core(TM) m3-8100Y CPU @ 1.10GHz
+Stepping:                9
+CPU MHz:                 1601
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                256K
+L3 cache:                4M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline aes xsave osxsave avx f16c rdrnd fsgsbase tsc_adjust sgx bmi1 avx2 smep bmi2 erms invpcid fpcsds mpx rdseed adx smap clflushopt intel_pt syscall nx pdpe1gb rdtscp lm lahf_lm lzcnt

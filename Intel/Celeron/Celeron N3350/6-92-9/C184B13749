@@ -1,0 +1,15 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            2
+Thread(s) per core:      1
+Core(s) per socket:      2
+Socket(s):               1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   92
+Model name:              Intel(R) Celeron(R) CPU N3350 @ 1.10GHz
+Stepping:                9
+L1d cache:               24K
+L1i cache:               32K
+L2 cache:                1024K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline aes xsave osxsave rdrnd fsgsbase tsc_adjust smep erms fpcsds mpx pqe rdseed smap clflushopt intel_pt syscall nx pdpe1gb rdtscp lm lahf_lm

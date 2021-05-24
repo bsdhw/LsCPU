@@ -1,0 +1,11 @@
+Architecture:            x86_64
+Byte Order:              Little Endian
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              15
+Model:                   4
+Model name:              Intel(R) Pentium(R) D CPU 3.00GHz
+Stepping:                7
+L1d cache:               16K
+L2 cache:                1M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl est cnxt-id cx16 xtpr syscall nx lm lahf_lm

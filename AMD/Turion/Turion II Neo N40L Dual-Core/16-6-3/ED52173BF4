@@ -1,0 +1,15 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            2
+Thread(s) per core:      1
+Core(s) per socket:      2
+Socket(s):               1
+Vendor:                  AuthenticAMD
+CPU family:              16
+Model:                   6
+Model name:              AMD Turion(tm) II Neo N40L Dual-Core Processor
+Stepping:                3
+L1d cache:               64K
+L1i cache:               64K
+L2 cache:                1024K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh mmx fxsr sse sse2 htt sse3 monitor cx16 popcnt syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow lahf_lm cmp_legacy svm extapic cr8_legacy lzcnt sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt nodeid_msr

@@ -1,0 +1,12 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Active CPU(s):           2
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   38
+Model name:              Genuine Intel(R) CPU @ 600MHz
+Stepping:                1
+CPU MHz:                 600
+L1i cache:               32K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm movbe syscall nx lm lahf_lm

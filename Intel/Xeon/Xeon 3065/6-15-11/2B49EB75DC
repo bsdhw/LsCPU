@@ -1,0 +1,15 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           2
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   15
+Model name:              Intel(R) Xeon(R) CPU 3065 @ 2.33GHz ("GenuineIntel" 686-class)
+Stepping:                11
+CPU MHz:                 2333
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                4M
+L3 cache:                4M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm nx lm lahf_lm

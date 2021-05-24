@@ -1,0 +1,15 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            2
+Thread(s) per core:      1
+Core(s) per socket:      2
+Socket(s):               1
+Vendor:                  AuthenticAMD
+CPU family:              21
+Model:                   112
+Model name:              AMD A4-9125 RADEON R3, 4 COMPUTE CORES 2C+2G   
+Stepping:                0
+L1d cache:               32K
+L1i cache:               96K
+L2 cache:                1024K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh mmx fxsr sse sse2 htt sse3 pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 popcnt aes xsave osxsave avx f16c rdrnd syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm lahf_lm cmp_legacy svm extapic cr8_legacy lzcnt sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 tce nodeid_msr tbm topoext perfctr_core perfctr_nb dbx perftsc

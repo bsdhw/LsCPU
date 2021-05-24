@@ -1,0 +1,14 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           2
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   14
+Model name:              Genuine Intel(R) CPU T2250 @ 1.73GHz ("GenuineIntel" 686-class)
+Stepping:                8
+CPU MHz:                 1733
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                2M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 monitor est tm2 xtpr pdcm nx
