@@ -9,7 +9,7 @@ by the [hw-probe](https://github.com/linuxhw/hw-probe/blob/master/INSTALL.BSD.md
 
     hw-probe -all -upload
 
-Total processor models: 925.
+Total processor models: 923.
 
 About
 -----
@@ -328,7 +328,6 @@ CPU Models
 | Intel | Xeon E3-1245 v5                | 8     | 32K | 32K | 256K  | 8M   |
 | Intel | Xeon E3-1275 v5                | 8     | 32K | 32K | 256K  | 8M   |
 | Intel | Xeon E3-1280 v5                | 8     | 32K | 32K | 256K  | 8M   |
-| Intel | Unknown                        | 8     | 32K | 32K | 256K  | 8M   |
 | Intel | Atom C3708                     | 8     | 24K | 32K | 2048K |      |
 | Intel | Atom C3758                     | 8     | 24K | 32K | 2048K |      |
 | AMD   | Phenom II X6 1055T             | 6     | 64K | 64K | 512K  | 6M   |
@@ -859,7 +858,6 @@ CPU Models
 | Intel | Pentium G6950                  | 2     | 32K | 32K |       | 3M   |
 | Intel | Pentium P6100                  | 2     | 32K | 32K |       | 3M   |
 | Intel | Pentium P6200                  | 2     | 32K | 32K |       | 3M   |
-| Intel | Unknown                        | 2     |     | 32K |       |      |
 | Intel | Celeron 847                    | 2     | 32K | 32K | 256K  | 2M   |
 | Intel | Celeron 867                    | 2     | 32K | 32K | 256K  | 2M   |
 | Intel | Celeron B815                   | 2     | 32K | 32K | 256K  | 2M   |
