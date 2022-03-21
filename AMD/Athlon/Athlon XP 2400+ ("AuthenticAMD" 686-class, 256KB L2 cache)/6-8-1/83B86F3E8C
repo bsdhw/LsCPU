@@ -1,0 +1,17 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           1
+Total CPU(s):            1
+Thread(s) per core:      1
+Core(s) per socket:      1
+Socket(s):               1
+Vendor:                  AuthenticAMD
+CPU family:              6
+Model:                   8
+Model name:              AMD Athlon(tm) XP 2400+ ("AuthenticAMD" 686-class, 256KB L2 cache)
+Stepping:                1
+CPU MHz:                 2010
+L1d cache:               64K
+L1i cache:               64K
+L2 cache:                256K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 mmx fxsr sse syscall mmxext 3dnowext 3dnow

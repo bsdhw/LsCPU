@@ -1,0 +1,15 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Total CPU(s):            1
+Thread(s) per core:      1
+Core(s) per socket:      1
+Socket(s):               1
+Vendor:                  AuthenticAMD
+CPU family:              5
+Model:                   10
+Model name:              Geode(TM) Integrated Processor by AMD PCS
+Stepping:                2
+L1d cache:               64K
+L1i cache:               64K
+L2 cache:                128K
+Flags:                   fpu de pse tsc msr cx8 sep pge cmov cflsh mmx mmxext 3dnowext 3dnow

@@ -1,0 +1,16 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            12
+Thread(s) per core:      1
+Core(s) per socket:      12
+Socket(s):               1
+Vendor:                  AuthenticAMD
+CPU family:              25
+Model:                   80
+Model name:              AMD Ryzen 5 PRO 5650GE with Radeon Graphics    
+Stepping:                0
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                512K
+L3 cache:                16M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh mmx fxsr sse sse2 htt sse3 pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 popcnt aes xsave osxsave avx f16c rdrnd syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm lahf_lm cmp_legacy svm extapic cr8_legacy lzcnt sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb pcx_l2i

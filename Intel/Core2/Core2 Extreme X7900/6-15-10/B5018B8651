@@ -1,0 +1,13 @@
+Architecture:            amd64
+Byte Order:              Little Endian
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   15
+Model name:              Intel(R) Core(TM)2 Extreme CPU X7900  @ 2.80GHz
+Stepping:                10
+L1d cache:               32K
+L1i cache:               32K
+L2 cache:                4M
+L3 cache:                4M
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm syscall nx lm lahf_lm

@@ -1,0 +1,12 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           2
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   28
+Model name:              Intel(R) Atom(TM) CPU N280 @ 1.66GHz ("GenuineIntel" 686-class)
+Stepping:                2
+CPU MHz:                 1663
+L1i cache:               32K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl est tm2 ssse3 xtpr pdcm movbe nx lahf_lm

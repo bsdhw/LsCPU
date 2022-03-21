@@ -1,0 +1,13 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Active CPU(s):           1
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   14
+Model name:              Intel(R) Celeron(R) M CPU 430 @ 1.73GHz ("GenuineIntel" 686-class)
+Stepping:                8
+CPU MHz:                 1734
+L1d cache:               32K
+L1i cache:               32K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss tm pbe sse3 monitor tm2 xtpr pdcm nx

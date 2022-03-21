@@ -1,0 +1,11 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   13
+Model name:              Intel(R) Celeron(R) M processor         1.70GHz
+Stepping:                8
+L1d cache:               32K
+L1i cache:               32K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss tm pbe nx

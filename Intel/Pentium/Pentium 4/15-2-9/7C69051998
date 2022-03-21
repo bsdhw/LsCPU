@@ -1,0 +1,11 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Total CPU(s):            1
+Vendor:                  GenuineIntel
+CPU family:              15
+Model:                   2
+Model name:              Intel(R) Pentium(R) 4 CPU 2.80GHz
+Stepping:                9
+L1d cache:               8K
+L2 cache:                512K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe cnxt-id xtpr

@@ -1,0 +1,10 @@
+Architecture:            i386
+Byte Order:              Little Endian
+Total CPU(s):            2
+Vendor:                  GenuineIntel
+CPU family:              6
+Model:                   28
+Model name:              Intel(R) Atom(TM) CPU  230   @ 1.60GHz
+Stepping:                2
+L1i cache:               32K
+Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat cflsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 dtes64 monitor ds_cpl tm2 ssse3 cx16 xtpr pdcm movbe nx lm lahf_lm
